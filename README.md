@@ -11,7 +11,6 @@
 <!--     <h2 align="center">Request a Service</h2>
     <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:andrewhenin25@gmail.com">E-Mail</a> to see how I can help you.</p><br /> -->
 </p>
-  <img width="300px" src="https://i.redd.it/zym5pybotlja1.gif"/>
 
   <div align="center">
     
