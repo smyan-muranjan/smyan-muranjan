@@ -5,7 +5,7 @@
   </h1>
   <p align="center">
     <i>
-        I'm Smyan. I am a Junior at Purdue University Studying Computer Engineering.<br>
+        I'm Smyan. I am a Senior at Purdue University Studying Computer Engineering.<br>
         I am experienced in Android, Web, Frontend, and Backend. I have past work experience in <strong>Android</strong> (Kotlin) and <strong>Backend</strong> (Java- Spring Boot).<br>
     </i><br>
 <!--     <h2 align="center">Request a Service</h2>
